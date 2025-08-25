@@ -23,7 +23,7 @@ Développeur full stack, je conçois et réalise des solutions web, avec une att
   Site web expérimental dédié à l’exploration de nouvelles pratiques en développement web : design, intégration, accessibilité et ergonomie. Ce projet permet de tester et de valider des concepts innovants en front-end.
 
 - [Mémoire CMW](https://github.com/Xuan-Minh/memoire-cmw)  
-  Mémoire de recherche réalisé dans le cadre du CMW, portant sur [ajoute ici le sujet précis]. L’étude analyse en profondeur les enjeux et propose des solutions techniques et organisationnelles en lien avec le thème traité.
+  Plateforme web de gestion et de suivi des mémoires pour étudiants et enseignants.
 
 ## 📈 Statistiques GitHub
 
