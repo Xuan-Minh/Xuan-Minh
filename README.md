@@ -17,7 +17,7 @@ Développeur full stack, je conçois et réalise des solutions web, avec une att
 ## 🚀 Projets principaux
 
 - [Glaneurs de Cartons](https://github.com/Xuan-Minh/Glaneurs-de-Cartons)  
-  Plateforme de gestion logistique pour la collecte, la mutualisation et la redistribution de cartons à destination d’associations et de particuliers. Le projet vise à optimiser les flux de récupération de matériaux et à réduire le gaspillage.
+  Ce projet est le site web d'un documentaire immersif née d'une collaboration franco-coreenne, "Les Glaneurs de Carton". Il a été conçu avec un fort accent sur l'expérience utilisateur, les animations fluides et une architecture web moderne.
 
 - [Nevernamed](https://nevernamed.fr)  
   Ce projet constitue le site vitrine officiel de l'équipe e-sport NeverNamed. Il a été développé dans le cadre de mon stage de fin d'études. L'objectif principal est de fournir une plateforme professionnelle permettant de présenter l'équipe, ses joueurs, ses partenaires ainsi que son actualité.
