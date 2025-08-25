@@ -2,17 +2,17 @@
 
 Bienvenue sur mon profil GitHub.
 
-Développeur full stack, je conçois et réalise des solutions web, avec une attention particulière portée à la qualité du code, à la robustesse des architectures et à l’utilité des projets. Mon parcours comprend des expériences en développement, en gestion de projet, et un engagement dans des initiatives associatives.
+Développeur full stack, je conçois et réalise des solutions web, avec une attention particulière portée à la qualité du code, à la robustesse des architectures, au sein d'une direction artistique riche. Mon parcours comprend des expériences en développement, en gestion de projet, et un attrait pour les projets internationaux.
 
 ## 💡 À propos
 
-- Développeur Full Stack (TypeScript, PHP, React, Node.js, PostgreSQL)
+- Développeur Full Stack Web(PHP, React, TailwindCSS,SQL)
 - Expérience en conception d'applications web, API, et gestion de bases de données
 - Intérêt pour l’innovation technique, l’impact social, et la résolution de problématiques concrètes
 
 ## 🛠️ Technologies & outils
 
-![My Skills](https://skillicons.dev/icons?i=ts,php,react,nodejs,postgresql,git,linux,docker&theme=light)
+![My Skills](https://skillicons.dev/icons?i=ts,php,react,js,html,css,tailwind,git)
 
 ## 🚀 Projets principaux
 
