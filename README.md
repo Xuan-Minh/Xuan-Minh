@@ -32,7 +32,7 @@ Développeur full stack, je conçois et réalise des solutions web, avec une att
 
 ## 🤝 Me contacter
 
-- Email : naux.pro@gmail.com
+- Email : [naux.pro@gmail.com](mailto:naux.pro@gmail.com)
 - LinkedIn : [Xuan-Minh TRAN](https://www.linkedin.com/in/xuan-minh-t-5a4ba91b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Twitter/X : [@howaboutxu](https://twitter.com/howaboutxu)
 
