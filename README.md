@@ -13,7 +13,7 @@ Développeur passionné, créatif et enthousiaste, j’aime concevoir des projet
 
 ## 🛠️ Technologies & outils
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,git,linux,postgresql&theme=light)  
+![My Skills](https://skillicons.dev/icons?i=js,php,react,git,postgresql&theme=light)  
 *(J’adore aussi bidouiller avec d’autres stacks, tout dépend des besoins du projet)*
 
 ## 🚀 Projets phares
