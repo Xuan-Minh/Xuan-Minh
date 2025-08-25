@@ -20,10 +20,10 @@ Développeur full stack, je conçois et réalise des solutions web, avec une att
   Plateforme de gestion logistique pour la collecte, la mutualisation et la redistribution de cartons à destination d’associations et de particuliers. Le projet vise à optimiser les flux de récupération de matériaux et à réduire le gaspillage.
 
 - [Nevernamed](https://nevernamed.fr)  
-  Site web expérimental dédié à l’exploration de nouvelles pratiques en développement web : design, intégration, accessibilité et ergonomie. Ce projet permet de tester et de valider des concepts innovants en front-end.
+  Ce projet constitue le site vitrine officiel de l'équipe e-sport NeverNamed. Il a été développé dans le cadre de mon stage de fin d'études. L'objectif principal est de fournir une plateforme professionnelle permettant de présenter l'équipe, ses joueurs, ses partenaires ainsi que son actualité.
 
 - [Mémoire CMW](https://github.com/Xuan-Minh/memoire-cmw)  
-  Plateforme web de gestion et de suivi des mémoires pour étudiants et enseignants.
+  Il s'agit d'une plateforme web de gestion et de suivi des mémoires pour étudiants et enseignants, développée dans le cadre universitaire.
 
 ## 📈 Statistiques GitHub
 
