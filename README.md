@@ -1,27 +1,28 @@
 # 👋 Salut, moi c'est Xuan-Minh !
 
 Bienvenue sur mon profil GitHub !  
-Je suis passionné par le développement, la tech, l’open source et la création de solutions utiles.
+Développeur passionné, créatif et enthousiaste, j’aime concevoir des projets utiles et fun, explorer les nouvelles technos et partager mon énergie avec la communauté.
 
-## 💻 À propos de moi
+## 💡 À propos de moi
 
-- 🧑‍💻 Développeur (précise ton stack ou ton poste si tu veux)
-- 🌎 Basé à (ta ville/ton pays)
-- 🎯 Toujours en quête de nouveaux défis et d’apprentissage continu
-- 📚 Passionné par (tes domaines de prédilection : IA, web, mobile, devops, etc.)
+- 🧑‍💻 Développeur Full Stack (JS/TS, React, Node.js, Python)
+- 📍 Basé en France
+- ⚡ Toujours en quête de nouveaux défis et de découvertes
+- 🎒 Engagé dans l’associatif, l’innovation et la création de solutions concrètes
+- 🥳 Sérieux dans le code, fun dans l’attitude !
 
 ## 🛠️ Technologies & outils
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,git,linux,postgresql&theme=light)  
-*(Modifie cette liste selon tes technos préférées)*
+*(J’adore aussi bidouiller avec d’autres stacks, tout dépend des besoins du projet)*
 
 ## 🚀 Projets phares
 
-Voici quelques projets dont je suis particulièrement fier·e :
+Voici quelques projets qui me tiennent à cœur :
 
-- [Nom-du-projet-1](https://github.com/Xuan-Minh/Nom-du-projet-1) — Petite description cool du projet.
-- [Nom-du-projet-2](https://github.com/Xuan-Minh/Nom-du-projet-2) — Présente-le en une phrase.
-- [Nom-du-projet-3](https://github.com/Xuan-Minh/Nom-du-projet-3) — Idem !
+- [Glaneurs de Cartons](https://github.com/Xuan-Minh/Glaneurs-de-Cartons) — Projet humain et solidaire pour faciliter la récupération et la redistribution de cartons. Un peu de logistique, beaucoup de partage et une bonne dose de bonne humeur !
+- [Nevernamed](https://nevernamed.fr) — Site web expérimental et créatif, terrain de jeu pour tester, créer et surprendre, sans jamais tomber dans la routine !
+- [Mémoire CMW](https://github.com/Xuan-Minh/memoire-cmw) — Mon mémoire réalisé dans le cadre du CMW, explorant [ajoute ici une courte description du sujet].
 
 ## 📈 Statistiques GitHub
 
