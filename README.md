@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil GitHub.
 
-Développeur full stack, je conçois et réalise des solutions web, avec une attention particulière portée à la qualité du code, à la robustesse des architectures, au sein d'une direction artistique riche. Mon parcours comprend des expériences en développement, en gestion de projet, et un attrait pour les projets internationaux.
+Développeur full stack, je conçois et réalise des projets web, avec une attention particulière portée à la qualité du code, à la robustesse des architectures, et une envie d'aider les artistes et créatif.ves. Mon parcours comprend des expériences en développement, en gestion de projet, et un attrait pour les projets internationaux.
 
 ## 💡 À propos
 
