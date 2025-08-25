@@ -12,7 +12,7 @@ Développeur full stack, je conçois et réalise des solutions web, avec une att
 
 ## 🛠️ Technologies & outils
 
-![My Skills](https://skillicons.dev/icons?i=ts,php,react,js,html,css,tailwind,git)
+![My Skills](https://skillicons.dev/icons?i=php,react,js,html,css,tailwind,git)
 
 ## 🚀 Projets principaux
 
