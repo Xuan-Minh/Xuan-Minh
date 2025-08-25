@@ -32,9 +32,9 @@ Développeur full stack, je conçois et réalise des solutions web, avec une att
 
 ## 🤝 Me contacter
 
-- Email : [ton.email@email.com](mailto:ton.email@email.com)
+- Email : [naux.pro@gmail.com](mailto: naux.pro@gmail.com)
 - LinkedIn : [TonProfilLinkedin](https://linkedin.com/in/tonprofil)
-- Twitter/X : [@TonPseudo](https://twitter.com/TonPseudo)
+- Twitter/X : [@howaboutxu](https://twitter.com/howaboutxu)
 
 ---
 
