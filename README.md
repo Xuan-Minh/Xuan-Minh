@@ -1,28 +1,29 @@
-# 👋 Salut, moi c'est Xuan-Minh !
+# 👋 Bonjour, je suis Xuan-Minh
 
-Bienvenue sur mon profil GitHub !  
-Développeur passionné, créatif et enthousiaste, j’aime concevoir des projets utiles et fun, explorer les nouvelles technos et partager mon énergie avec la communauté.
+Bienvenue sur mon profil GitHub.
 
-## 💡 À propos de moi
+Développeur full stack, je conçois et réalise des solutions web, avec une attention particulière portée à la qualité du code, à la robustesse des architectures et à l’utilité des projets. Mon parcours comprend des expériences en développement, en gestion de projet, et un engagement dans des initiatives associatives.
 
-- 🧑‍💻 Développeur Full Stack (JS/TS, React, Node.js, Python)
-- 📍 Basé en France
-- ⚡ Toujours en quête de nouveaux défis et de découvertes
-- 🎒 Engagé dans l’associatif, l’innovation et la création de solutions concrètes
-- 🥳 Sérieux dans le code, fun dans l’attitude !
+## 💡 À propos
+
+- Développeur Full Stack (TypeScript, PHP, React, Node.js, PostgreSQL)
+- Expérience en conception d'applications web, API, et gestion de bases de données
+- Intérêt pour l’innovation technique, l’impact social, et la résolution de problématiques concrètes
 
 ## 🛠️ Technologies & outils
 
-![My Skills](https://skillicons.dev/icons?i=js,php,react,git,postgresql&theme=light)  
-*(J’adore aussi bidouiller avec d’autres stacks, tout dépend des besoins du projet)*
+![My Skills](https://skillicons.dev/icons?i=ts,php,react,nodejs,postgresql,git,linux,docker&theme=light)
 
-## 🚀 Projets phares
+## 🚀 Projets principaux
 
-Voici quelques projets qui me tiennent à cœur :
+- [Glaneurs de Cartons](https://github.com/Xuan-Minh/Glaneurs-de-Cartons)  
+  Plateforme de gestion logistique pour la collecte, la mutualisation et la redistribution de cartons à destination d’associations et de particuliers. Le projet vise à optimiser les flux de récupération de matériaux et à réduire le gaspillage.
 
-- [Glaneurs de Cartons](https://github.com/Xuan-Minh/Glaneurs-de-Cartons) — Projet humain et solidaire pour faciliter la récupération et la redistribution de cartons. Un peu de logistique, beaucoup de partage et une bonne dose de bonne humeur !
-- [Nevernamed](https://nevernamed.fr) — Site web expérimental et créatif, terrain de jeu pour tester, créer et surprendre, sans jamais tomber dans la routine !
-- [Mémoire CMW](https://github.com/Xuan-Minh/memoire-cmw) — Mon mémoire réalisé dans le cadre du CMW, explorant [ajoute ici une courte description du sujet].
+- [Nevernamed](https://nevernamed.fr)  
+  Site web expérimental dédié à l’exploration de nouvelles pratiques en développement web : design, intégration, accessibilité et ergonomie. Ce projet permet de tester et de valider des concepts innovants en front-end.
+
+- [Mémoire CMW](https://github.com/Xuan-Minh/memoire-cmw)  
+  Mémoire de recherche réalisé dans le cadre du CMW, portant sur [ajoute ici le sujet précis]. L’étude analyse en profondeur les enjeux et propose des solutions techniques et organisationnelles en lien avec le thème traité.
 
 ## 📈 Statistiques GitHub
 
@@ -37,5 +38,4 @@ Voici quelques projets qui me tiennent à cœur :
 
 ---
 
-Merci d’être passé·e ! N’hésite pas à me contacter ou à explorer mes projets.  
-À bientôt sur GitHub 🚀
+Merci de votre visite. Vous pouvez me contacter pour toute question ou collaboration.
