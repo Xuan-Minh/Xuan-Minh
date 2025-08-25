@@ -22,7 +22,7 @@ Développeur full stack, je conçois et réalise des solutions web, avec une att
 - [Nevernamed](https;//github.com/Xuan-Minh/nevernamed-esport-site)  
   Ce projet constitue le site vitrine officiel de l'équipe e-sport NeverNamed. Il a été développé dans le cadre de mon stage de fin d'études. L'objectif principal est de fournir une plateforme professionnelle permettant de présenter l'équipe, ses joueurs, ses partenaires ainsi que son actualité.
 
-- [Mémoire CMW](https://github.com/Xuan-Minh/memoire-cmw)  
+- [Mémoire CMW](https://github.com/Xuan-Minh/memoirecmw)  
   Il s'agit d'une plateforme web de gestion et de suivi des mémoires pour étudiants et enseignants, développée dans le cadre universitaire.
 
 ## 📈 Statistiques GitHub
