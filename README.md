@@ -2,11 +2,13 @@
 
 Bienvenue sur mon profil GitHub.
 
-Développeur full stack, je conçois et réalise des projets web, avec une attention particulière portée à la qualité du code, à la robustesse des architectures, et une envie d'aider les artistes et créatif.ves. Mon parcours comprend des expériences en développement, en gestion de projet, et un attrait pour les projets internationaux.
+Développeur web et chef de projet qui adore donner vie à des idées créatives. Je transforme des concepts en sites et applications fonctionnels, en partant de la maquette sur Figma jusqu'à la mise en ligne.
+
+Ce qui me motive ? Aider les artistes et les créatifs à briller sur le web avec des outils qui fonctionnent bien et qui ont du style. J'aime particulièrement travailler sur des projets qui connectent des gens de cultures différentes.
 
 ## 💡 À propos
 
-- Développeur Full Stack Web(PHP, React, TailwindCSS,SQL)
+- Développeur Frontend / Full Stack Web JS(PHP, React, TailwindCSS,SQL)
 - Expérience en conception d'applications web, API, et gestion de bases de données
 - Intérêt pour l’impact social, et raconter des histoires.
 
