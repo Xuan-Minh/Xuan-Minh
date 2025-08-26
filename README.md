@@ -8,7 +8,7 @@ Développeur full stack, je conçois et réalise des projets web, avec une atten
 
 - Développeur Full Stack Web(PHP, React, TailwindCSS,SQL)
 - Expérience en conception d'applications web, API, et gestion de bases de données
-- Intérêt pour l’innovation technique, l’impact social, et raconter des histoires.
+- Intérêt pour l’impact social, et raconter des histoires.
 
 ## 🛠️ Technologies & outils
 
