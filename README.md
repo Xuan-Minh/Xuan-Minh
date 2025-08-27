@@ -33,7 +33,7 @@ Ce qui me motive ? Aider les artistes et les créatifs à briller sur le web ave
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xuan-Minh&layout=compact&theme=github_dark)
 
 ## 🤝 Mon site perso
-- Portfolio [https://xuan-minh.github.io](https://xuan-minh.github.io)
+- Portfolio [xuan-minh.github.io](https://xuan-minh.github.io)
 
 ## 🤝 Me contacter
 
