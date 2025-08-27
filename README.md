@@ -37,6 +37,7 @@ Ce qui me motive ? Aider les artistes et les créatifs à briller sur le web ave
 - Email : [naux.pro@gmail.com](mailto:naux.pro@gmail.com)
 - LinkedIn : [Xuan-Minh TRAN](https://www.linkedin.com/in/xuan-minh-t-5a4ba91b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Twitter/X : [@howaboutxu](https://twitter.com/howaboutxu)
+- Instagram : [@howaboutxu](https://instagram.com/howaboutxu)
 
 ---
 
