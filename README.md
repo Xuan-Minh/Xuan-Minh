@@ -4,6 +4,8 @@ Bienvenue sur mon profil GitHub.
 
 Développeur web et chef de projet qui adore donner vie à des idées créatives. Je transforme des concepts en sites et applications fonctionnels, en partant de la maquette sur Figma jusqu'à la mise en ligne.
 
+​En tant que Dev Artist, je me situe à l'intersection du code et de la création. Ma mission est de transformer des visions artistiques en plateformes web robustes et poétiques, où la technologie sert l'émotion et l'esthétique.
+
 Ce qui me motive ? Aider les artistes et les créatifs à briller sur le web avec des outils qui fonctionnent bien et qui ont du style. J'aime particulièrement travailler sur des projets qui connectent des gens de cultures différentes.
 
 ## 💡 À propos
