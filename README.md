@@ -25,7 +25,8 @@ Ce qui me motive ? Aider les artistes et les créatifs à briller sur le web ave
   Ce projet constitue le site vitrine officiel de l'équipe e-sport NeverNamed. Il a été développé dans le cadre de mon stage de fin d'études. L'objectif principal est de fournir une plateforme professionnelle permettant de présenter l'équipe, ses joueurs, ses partenaires ainsi que son actualité.
 
 - [Mémoire CMW](https://github.com/Xuan-Minh/memoirecmw)  
-  Il s'agit d'une plateforme web de gestion et de suivi des mémoires pour étudiants et enseignants, développée dans le cadre universitaire.
+  Il s'agit d'une plateforme web collaboratif et d'échange visant à aider à la réalisation et la gestion de son mémoires pour étudiants et enseignants, développée dans le cadre universitaire. Il est envisagé de créer des espaces partagés et collaboratifs entre les étudiants, que ce soit pour partager des ressources ou des contacts professionnels, des questionnaires pour les enquêtes de terrain, ou encore un espace de suggestions pour de futurs sujets de mémoires. Une base de données de ressources créées par les enseigants, ainsi que de rendus d’anciens étudiants (fiche validation, fiche terrain, etc.) sera mise à disposition de façon à donner un maximum d’outils à disposition des étudiants.
+
 
 ## 📈 Statistiques GitHub
 
